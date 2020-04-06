@@ -1,3 +1,4 @@
 tpsi\web\StudentsTable.class
 com\mycompany\lab05\resources\JavaEE8Resource.class
 com\mycompany\lab05\JAXRSConfiguration.class
+tpsi\web\Student.class
